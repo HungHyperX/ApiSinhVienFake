@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "cRJa5gocx9pNpMIziwsfHiF2+yUvfJf8GuaAE9mGM6Y=",
+  "Source": "ApiSinhVien",
+  "BasePath": "_content/ApiSinhVien",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
