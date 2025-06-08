@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApiSinhVien")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+96a890d12bb12429d502035b97ad9cb3424360a2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c00663e749f16f24571aea401293ead33f74bc3b")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApiSinhVien")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApiSinhVien")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
