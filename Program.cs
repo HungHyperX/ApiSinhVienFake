@@ -9,7 +9,7 @@ builder.Services.AddControllers();
 
 // Add EF Core and SQLite
 builder.Services.AddDbContext<StudentContext>(options =>
-    options.UseSqlite(builder.Configuration.GetConnectionString("DefaultConnection")));
+    options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection")));
 
 // Learn more about configuring Swagger/OpenAPI
 builder.Services.AddEndpointsApiExplorer();
