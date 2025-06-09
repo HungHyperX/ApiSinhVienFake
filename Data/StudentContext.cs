@@ -23,7 +23,7 @@ namespace ApiSinhVien.Data
                 entity.Property(e => e.Id).HasColumnName("id");
                 entity.Property(e => e.Uid).HasColumnName("uid");
                 entity.Property(e => e.Name).HasColumnName("name");
-                entity.Property(e => e.Class).HasColumnName("class");
+                //entity.Property(e => e.Class).HasColumnName("class");
                 entity.Property(e => e.Department).HasColumnName("department");
             });
         }
